@@ -1,0 +1,27 @@
+{
+  "name": "Trilobite Simulator",
+  "version": "0.0.1",
+  "description": "The premier trilobite simulator game",
+  "main": "app/main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "Kaylee Eluvian"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "require": "*",
+    "jquery": "~2.1.1",
+    "jquery.ui": "~1.11.1",
+    "underscore": "~1.6.0",
+    "bootstrap": "~3.2.0"
+  }
+}

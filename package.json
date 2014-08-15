@@ -1,0 +1,20 @@
+{
+  "name": "TrilobiteSimulator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.3.9",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "bower": "^1.3.9",
+    "grunt-cli": "^0.1.13",
+    "grunt-css": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaylee Eluvian",
+  "license": "ISC"
+}
